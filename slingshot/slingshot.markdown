@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Tutorial
-permalink: /tutorial/
+title: Slingshot Simulator
+permalink: /slingshot/
 ---
 
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
