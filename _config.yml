@@ -31,7 +31,7 @@ url: "https://klinakuf.github.io" # the base hostname & protocol for your site, 
 logo: "images/logo.png"
 
 # Build settings
-remote_theme: "just-the-docs"
+remote_theme: just-the-docs/just-the-docs
 plugins:
   - jekyll-feed
 
