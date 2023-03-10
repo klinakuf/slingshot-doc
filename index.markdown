@@ -4,6 +4,9 @@
 
 layout: home
 ---
+
+<p style="color:red"> This documentation is outdated, please have a look at the following <a href="https://palladiosimulator.github.io/Palladio-Documentation-Slingshot/">LINK</a></p>
+
 <img src="images/logo.png" alt="slingshot-logo" width="200"/>
 # Engineering Cloud Scaling Policies with Slingshot
 
